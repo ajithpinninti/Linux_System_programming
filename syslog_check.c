@@ -12,6 +12,7 @@ int main()
         syslog(LOG_ERR|LOG_USER,"ooops - %m\n");
  
     printf("completed");
+    printf("completed too");
     
     
     exit(0);
